@@ -10,7 +10,7 @@
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1mo3BFqSNwGjTi3GKHJP0Y4SbirsGUYwd/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/file/d/1mo3BFqSNwGjTi3GKHJP0Y4SbirsGUYwd/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
