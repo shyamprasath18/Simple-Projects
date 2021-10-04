@@ -8,7 +8,11 @@
 ## Video
 
 
-![video](https://github.com/shyamprasath18/Simple-Projects/blob/main/FormatFactory%20Screen%20Record20211004_122129%20(2).mp4)
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1mo3BFqSNwGjTi3GKHJP0Y4SbirsGUYwd/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 
 
