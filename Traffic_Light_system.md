@@ -4,25 +4,11 @@
 - Yellow -> 1 seconds delay
 - Red -> 5 seconds delay
 
-## Image
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Video
 
 
-
+![video](https://github.com/shyamprasath18/Simple-Projects/blob/main/FormatFactory%20Screen%20Record20211004_122129%20(2).mp4)
 
 
 
