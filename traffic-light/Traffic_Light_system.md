@@ -5,16 +5,11 @@
 - Red -> 5 seconds delay
 
 
-## Image
-
-
-![image](/traffic-light/trafficlight_tinkercad.jpg)
-
 ## Video
 
-<video width="320" height="240" controls>
-  <source src="trafficlight.mp4" type="video/mp4">
-</video>
+
+![watch the video](https://drive.google.com/file/d/1mo3BFqSNwGjTi3GKHJP0Y4SbirsGUYwd/preview)
+
 
 ## Code
 
