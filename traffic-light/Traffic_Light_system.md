@@ -12,7 +12,11 @@
 
 ## Video
 
-[![Watch the video](trafficlight_tinkercad.jpg)](trafficlight.mp4)
+
+
+https://user-images.githubusercontent.com/66670617/137628646-def9f02b-c2aa-4aaa-ad35-f7abe6723336.mp4
+
+
 
 ## Code
 
