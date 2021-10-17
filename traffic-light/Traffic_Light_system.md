@@ -5,11 +5,14 @@
 - Red -> 5 seconds delay
 
 
+## Image
+
+
+![image](trafficlight_tinkercad.jpg)
+
 ## Video
 
-
-![watch the video](https://drive.google.com/file/d/1mo3BFqSNwGjTi3GKHJP0Y4SbirsGUYwd/preview)
-
+[![Watch the video](trafficlight_tinkercad.jpg)](trafficlight.mp4)
 
 ## Code
 
